@@ -1,1 +1,5 @@
-include ':app', ':deliverstation', ':driver', ':commons', ':appupdate'
+include ':app', ':deliverstation', ':driver'
+include ':appupdate'
+project(':appupdate').projectDir = new File('../CommonLibrary/appupdate')
+include ':commons'
+project(':commons').projectDir = new File('../CommonLibrary/commons')

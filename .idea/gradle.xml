@@ -7,10 +7,10 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$/../CommonLibrary/appupdate" />
+            <option value="$PROJECT_DIR$/../CommonLibrary/commons" />
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/appupdate" />
-            <option value="$PROJECT_DIR$/commons" />
             <option value="$PROJECT_DIR$/deliverstation" />
             <option value="$PROJECT_DIR$/driver" />
           </set>

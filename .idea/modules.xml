@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Supplier.iml" filepath="$PROJECT_DIR$/Supplier.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/appupdate/appupdate.iml" filepath="$PROJECT_DIR$/appupdate/appupdate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CommonLibrary/appupdate/appupdate.iml" filepath="$PROJECT_DIR$/../CommonLibrary/appupdate/appupdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CommonLibrary/commons/commons.iml" filepath="$PROJECT_DIR$/../CommonLibrary/commons/commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/deliverstation/deliverstation.iml" filepath="$PROJECT_DIR$/deliverstation/deliverstation.iml" />
       <module fileurl="file://$PROJECT_DIR$/driver/driver.iml" filepath="$PROJECT_DIR$/driver/driver.iml" />
     </modules>
